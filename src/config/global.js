@@ -1,7 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo:
+      'Evaluación y monitoreo en la implementación de BPG en la producción porcina',
+    descripcionCurso:
+      'Este componente tratará los temas sobre la evaluación seguimiento y plan de contingencia en el monitoreo de la implementación de las Buenas Prácticas Ganaderas (BPG) en la producción porcina, profundizando en la trazabilidad y las acciones correctivas sobre la implementación en la unidad productiva porcícola.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -31,13 +33,23 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Inspección de procesos',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: '1.1 Importancia',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: '1.2 Componentes',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: '1.3 Metodología e interpretación',
+            hash: 't_1_3',
           },
         ],
       },
@@ -45,14 +57,89 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Gestión calidad ',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: '2.1 Protocolos',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: '2.2 Lista de chequeo',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: '2.3 Reporte de fallas y dificultades',
+            hash: 't_2_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Formulación y seguimiento de criterios',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: '3.1 Contingencias',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: '3.2 Acciones ',
+            hash: 't_3_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Acciones correctivas al plan de implementación  ',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Gestión de la información',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Informes',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: 'Formular plan de mejora   ',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '7.1',
+            titulo: '7.1 Conceptos',
+            hash: 't_7_1',
+          },
+          {
+            numero: '7.2',
+            titulo: '7.2 Hallazgos',
+            hash: 't_7_2',
+          },
+          {
+            numero: '7.3',
+            titulo: '7.3 Presentación',
+            hash: 't_7_3',
+          },
+          {
+            numero: '7.4',
+            titulo: '7.4 Reporte de novedades',
+            hash: 't_7_4',
+          },
+        ],
       },
     ],
     subMenu: [
