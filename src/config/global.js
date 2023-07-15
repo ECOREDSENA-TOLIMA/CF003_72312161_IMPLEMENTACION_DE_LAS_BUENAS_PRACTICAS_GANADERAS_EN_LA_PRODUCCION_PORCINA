@@ -38,17 +38,17 @@ export default {
         subMenu: [
           {
             numero: '1.1',
-            titulo: '1.1 Importancia',
+            titulo: 'Importancia',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: '1.2 Componentes',
+            titulo: 'Componentes',
             hash: 't_1_2',
           },
           {
             numero: '1.3',
-            titulo: '1.3 Metodología e interpretación',
+            titulo: 'Metodología e interpretación',
             hash: 't_1_3',
           },
         ],
@@ -62,17 +62,17 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: '2.1 Protocolos',
+            titulo: 'Protocolos',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: '2.2 Lista de chequeo',
+            titulo: 'Lista de chequeo',
             hash: 't_2_2',
           },
           {
             numero: '2.3',
-            titulo: '2.3 Reporte de fallas y dificultades',
+            titulo: 'Reporte de fallas y dificultades',
             hash: 't_2_3',
           },
         ],
@@ -85,12 +85,12 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: '3.1 Contingencias',
+            titulo: 'Contingencias',
             hash: 't_3_1',
           },
           {
             numero: '3.2',
-            titulo: '3.2 Acciones ',
+            titulo: 'Acciones ',
             hash: 't_3_2',
           },
         ],
@@ -121,22 +121,22 @@ export default {
         subMenu: [
           {
             numero: '7.1',
-            titulo: '7.1 Conceptos',
+            titulo: 'Conceptos',
             hash: 't_7_1',
           },
           {
             numero: '7.2',
-            titulo: '7.2 Hallazgos',
+            titulo: 'Hallazgos',
             hash: 't_7_2',
           },
           {
             numero: '7.3',
-            titulo: '7.3 Presentación',
+            titulo: 'Presentación',
             hash: 't_7_3',
           },
           {
             numero: '7.4',
-            titulo: '7.4 Reporte de novedades',
+            titulo: 'Reporte de novedades',
             hash: 't_7_4',
           },
         ],
@@ -184,32 +184,127 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: '2. Gestión de calidad',
+      referencia:
+        'Procem Consultores. (2018). Principios del Sistema de Gestión de Calidad.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=mGX1jYNElHg',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '2.3 Lista de chequeo',
+      referencia:
+        'Ecosistema de Recursos Educativos SENA. (2021). Lista de chequeo.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=BIruK_ImOK8',
+    },
+    {
+      tema: '6. Informes (tipos, características, frecuencia)',
+      referencia: 'Virtual Training Lteam. (2016). Informes de Gestión.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=-3fWhB6MPU8',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Acción correctiva',
+      significado:
+        'una acción tomada para eliminar las causas de una no conformidad detectada u otra situación indeseable. Manual de buenas prácticas pecuarias en bovinos, porcinos y aves, (2016).',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Autoridad competente',
+      significado:
+        'la autoridad de cada país responsable de la sanidad e inocuidad agropecuaria, así como sus direcciones, departamentos y sus funcionarios, encargados de cumplir y hacer cumplir las disposiciones de la ley, los reglamentos y normas específicas que se dictaren y demás legislación pertinente con la materia regulada en dichos textos legales. Manual de buenas prácticas pecuarias en bovinos, porcinos y aves, (2016).',
+    },
+    {
+      termino: 'Bioseguridad',
+      significado:
+        'normas, mecanismos y medidas para garantizar la seguridad de la salud y el ambiente, la investigación, producción, aplicación, liberación de mecanismos modificados por medio de ingeniería genética, material genético manipulado por dichos técnicos y comprende la base, uso, contenido, liberación intencional al medio ambiente y comercialización de los productos. Manual de buenas prácticas pecuarias en bovinos, porcinos y aves, (2016).',
+    },
+    {
+      termino: 'Enfermedad de notificación obligatoria',
+      significado:
+        'enfermedad que por sus características de difusión y contagio representa un riesgo importante para la población animal y su posible repercusión en la salud humana y que debe ser reportada de inmediato ante el ICA Manual de buenas prácticas pecuarias en bovinos, porcinos y aves, (2016). ',
+    },
+    {
+      termino: 'Erradicación',
+      significado:
+        'eliminación total de una enfermedad o plaga de animales y vegetales en un área geográfica determinada. Manual de buenas prácticas pecuarias en bovinos, porcinos y aves, (2016).',
+    },
+    {
+      termino: 'Lista de chequeo:',
+      significado:
+        'formato de control que se utiliza para registrar actividades repetitivas y controlar el cumplimiento de una serie de requisitos o recolectar datos ordenadamente y de forma sistemática. Biblioteca UDG Virtual, (2022).',
+    },
+    {
+      termino: 'Monitoreo',
+      significado:
+        'proceso sistemático de recolectar, analizar y utilizar información para hacer seguimiento al progreso de un programa en pos de la consecución de sus objetivos, y para guiar las decisiones de gestión. Generalmente se dirige a los procesos en lo que respecta a cómo, cuándo y dónde tienen lugar las actividades, quién las ejecuta y a cuántas personas o entidades beneficia. (Centro Virtual de Conocimiento ONU, 2010).',
+    },
+    {
+      termino: 'Plan de mejoras',
+      significado:
+        'conjunto de medidas de cambio que se toman en una organización para mejorar su rendimiento. ¿Qué es un Plan de Mejora? Educación de Navarra, (2020).',
+    },
+    {
+      termino: 'Predio',
+      significado:
+        'porción de terreno delimitada cuya propiedad pertenece a una sola persona o a varias en pro indiviso. Real Academia de la Lengua Española, (2022).',
+    },
+    {
+      termino: 'Registro pecuario',
+      significado:
+        'formato ordenado de almacenamiento de información relacionada con el origen, manejo, comportamiento y destino de los animales, y cuyo objetivo principal es brindar información ordenada que permita al productor tomar decisiones en cuanto a la gestión productiva y financiera de su empresa. El Nuevo Diario, (2013).',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Piñeiro, C. (2006). Gestión De La Información En Producción Porcina. Vº Congreso de Producción Porcina del Mercosur. ',
+      link:
+        'https://www.produccion-animal.com.ar/produccion_porcina/00-v-congreso_prod_porcina/21-pineiro_179.pdf',
+    },
+    {
+      referencia:
+        'Agencia Nacional de Evaluación de la Calidad y Acreditación. (s/f). Plan De Mejoras Herramienta de trabajo. ',
+      link:
+        'http://www.uantof.cl/public/docs/universidad/direccion_docente/15_elaboracion_plan_de_mejoras.pdf',
+    },
+    {
+      referencia:
+        'PigCHAMP. (s/f). Los 5 pasos de un sistema de gestión de la información. ',
+      link:
+        'https://www.pigchamp-pro.com/los-5-pasos-de-un-sistema-de-gestion-de-la-informacion/',
+    },
+    {
+      referencia:
+        'Ojeda Enríquez, M., Andrade, S. (2017). Gestión de Información de Producción Porcina en Pie. Toma de Decisiones Soportada en Metodologías Blandas. Scientia Et Technica, vol. 23, Universidad Tecnológica de Pereira. ',
+      link: 'https://www.redalyc.org/journal/849/84959041008/html/',
+    },
+    {
+      referencia: 'Etecé. (2021). ¿Cómo hacer un informe? Concepto. De.  ',
+      link: 'https://concepto.de/como-hacer-un-informe/#ixzz7Sy0zRHid',
+    },
+    {
+      referencia: 'Etecé. (2021). Gestión de calidad. Concepto. De.  ',
+      link: 'https://concepto.de/gestion-de-calidad/#ixzz7Sy1JxDBf',
+    },
+    {
+      referencia:
+        'Pérez Campdesuñer, R.. (2003). Sistemas de inspección para el control de la calidad. ',
+      link:
+        'https://www.gestiopolis.com/sistemas-de-inspeccion-para-el-control-de-la-calidad/',
+    },
+    {
+      referencia:
+        'IE- ingenio & Empresa. (s.f.).  La lista de chequeo en calidad: Qué es y cómo se hace. ',
+      link:
+        'https://www.ingenioempresa.com/lista-de-chequeo/#:~:text=La%20lista%20de%20chequeo%2C%20tambi%C3%A9n,una%20situaci%C3%B3n%20o%20proceso%20espec%C3%ADfico.',
+    },
+    {
+      referencia:
+        'Evaluando Software.com. (2021). Gestión de la Información vs Gestión del Conocimiento. ',
+      link:
+        'https://www.evaluandosoftware.com/gestion-de-la-informacion-vs-gestion-del-conocimiento/',
     },
   ],
   creditos: [
@@ -222,9 +317,9 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Norma Constanza Morales Cruz',
           cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -232,9 +327,40 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Lady Johanna Cruz',
+          cargo: 'Experto Temático',
+          centro: 'Regional Tolima - Centro Agropecuario la Granja',
+        },
+        {
+          nombre: 'Gloria Lida Álzate Suarez',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Asesora Metodológica',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable Equipo Desarrollo Curricular',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Jhon Jairo Rodríguez Pérez',
+          cargo: 'Corrector de estilo',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Humberto Arias Díaz',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
+          cargo: 'Asesor Metodológico',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
       ],
     },
@@ -242,19 +368,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Aruzidna Sánchez Alonso',
           cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Davison Gaitán Escobar',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Storyboard e Ilustración',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Nelson Iván Vera Briceño',
+          cargo: 'Producción audiovisual',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Oleg Litvin',
+          cargo: 'Animador',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Francisco José Vásquez Suárez',
+          cargo: 'Actividad Didáctica',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
       ],
     },
@@ -262,14 +403,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
+          nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre validador',
+          nombre: 'Gilberto Naranjo Farfán',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
       ],
     },

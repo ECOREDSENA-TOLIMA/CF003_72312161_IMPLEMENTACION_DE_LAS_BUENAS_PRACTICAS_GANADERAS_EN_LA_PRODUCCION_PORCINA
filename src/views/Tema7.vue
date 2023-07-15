@@ -16,8 +16,8 @@
           .bloque-texto-g__texto.p-4
             p El plan de mejoras integra la decisión estratégica sobre cuáles son los cambios que deben incorporarse a los diferentes procesos de la organización, para que sean traducidos en un mejor servicio percibido.  Dicho plan, además de servir de base para la detección de mejoras, debe permitir el control y seguimiento de las diferentes acciones a desarrollar, así como la incorporación de acciones correctoras ante posibles contingencias no previstas. Para su elaboración será necesario establecer los objetivos que se proponen alcanzar y diseñar la planificación de las tareas para conseguirlos.
 
-    p(data-aos="zoom-in").mt-5 El plan de mejoras permite identificar las causas que provocan las debilidades detectadas, las acciones de mejora a aplicar, analizar su viabilidad, establecer prioridades en las líneas de actuación, disponer de un plan de las acciones a desarrollar en un futuro y de un sistema de seguimiento y control de las mismas, negociar la estrategia a seguir, incrementar la eficacia y eficiencia de la gestión, motivar a mejorar el nivel de calidad, 
-    p(data-aos="zoom-in") El plan elaborado en base a este documento permite tener de una manera organizada, priorizada y planificada las acciones de mejora. Su implantación y seguimiento debe ir orientado a que los programas, proyectos, planes o procedimientos se lleven y ejecuten de manera eficiente, eficaz y con calidad, mejorando la producción y la unidad productiva en todos los aspectos, desde la infraestructura hasta el personal. 
+    p(data-aos="zoom-in").mt-5 El plan de mejoras permite identificar las causas que provocan las debilidades detectadas, las acciones de mejora a aplicar, analizar su viabilidad, establecer prioridades en las líneas de actuación, disponer de un plan de las acciones a desarrollar en un futuro y de un sistema de seguimiento y control de las mismas, negociar la estrategia a seguir, incrementar la eficacia y eficiencia de la gestión, motivar a mejorar el nivel de calidad. 
+    p(data-aos="zoom-in") El plan elaborado con base en este documento permite tener de una manera organizada, priorizada y planificada las acciones de mejora. Su implantación y seguimiento debe ir orientado a que los programas, proyectos, planes o procedimientos se lleven y ejecuten de manera eficiente, eficaz y con calidad, mejorando la producción y la unidad productiva en todos los aspectos, desde la infraestructura hasta el personal. 
 
     separador
     #t_7_1.titulo-segundo.color-acento-contenido
@@ -27,7 +27,7 @@
 
     .row.justify-content-center.mt-5
       .col-6
-        a.anexo.mb-4.mb-lg-0(href="https://repositorio.sena.edu.co/sitios/gestion_produccion_porcina/" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.ica.gov.co/getattachment/af26e0f9-18bb-4fd7-8100-ba74f386ee28/2020R76509.aspx" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -121,36 +121,36 @@
       .col-10 
         LineaTiempoD.color-primario
           .row(numero="1" titulo="El criterio")
-            .col-md-6
+            .col-md-3
               figure
                 img(src='@/assets/curso/temas/tema7/img5.png', alt='')
 
-            .col-md-6.mb-4.mb-md-0
-              h4 El auditor mide la condición del hecho o situación y determina cumplimientos o desviaciones.
+            .col-md-9.mb-4.mb-md-0
+              h4 El auditor mide la condición del hecho o situación y determina cumplimientos o desviaciones
               p Comprende la concepción de "lo que debe ser", con lo cual el auditor mide la condición del hecho o situación y determina cumplimientos o desviaciones; además, es un parámetro razonable frente al cual debe evaluarse la obtención de bienes y servicios, la prevención de riesgos de desviación de recursos, las prácticas administrativas, los sistemas de control e información y los procesos y procedimientos observados.
           
 
           .row(numero="2" titulo="La condición")
-            .col-md-6
+            .col-md-3
               figure
                 img(src='@/assets/curso/temas/tema7/img6.png', alt='')
-            .col-md-6.mb-4.mb-md-0
-              h4 La situación actual, entendida como "lo que es", encontrada por el auditor.
+            .col-md-9.mb-4.mb-md-0
+              h4 La situación actual, entendida como "lo que es", encontrada por el auditor
               p Se refiere a la situación actual, entendida como "lo que es", encontrada por el auditor al examinar un área, actividad, función, operación o transacción, mediante las verificaciones necesarias para responder los siguientes interrogantes: "qué-cuándo-dónde-cómo". La condición refleja el grado en que el criterio está siendo logrado o aplicado y de la comparación que determina la existencia de una situación irregular o deficiencia en los documentos, procesos u operaciones analizadas.
           .row(numero="3" titulo="La causa")
-            .col-md-6
+            .col-md-3
               figure
                 img(src='@/assets/curso/temas/tema7/img7.png', alt='')
-            .col-md-6.mb-4.mb-md-0
-              h4 El auditor debe preguntarse el porqué de cada condición.
+            .col-md-9.mb-4.mb-md-0
+              h4 El auditor debe preguntarse el porqué de cada condición
               p Es la razón básica (o las razones) por la(s) que ocurrió la condición o también el motivo del incumplimiento del criterio. Para identificar las causas, el auditor debe preguntarse el porqué de cada condición, hasta descubrir las razones que originaron la desviación. Su identificación requiere de la habilidad y buen juicio del auditor, y es indispensable para el desarrollo de una recomendación constructiva que erradique, disminuya o prevenga la recurrencia de la condición.
 
           .row(numero="4" titulo="El efecto")
-            .col-md-6
+            .col-md-3
               figure
                 img(src='@/assets/curso/temas/tema7/img8.png', alt='')
-            .col-md-6.mb-4.mb-md-0
-              h4 Es el resultado adverso, real o potencial de la condición encontrada.
+            .col-md-9.mb-4.mb-md-0
+              h4 Es el resultado adverso, real o potencial de la condición encontrada
               p Es el resultado adverso, real o potencial de la condición encontrada, que provee la evidencia sobre la importancia del hallazgo y ayuda a demostrar la necesidad de adelantar acciones correctivas. En lo posible, este debe definirse en términos cuantitativos, como moneda, tiempo, unidades de producción o números de transacciones. No obstante, cuando esta definición no sea factible, ello no será una razón válida para dejar de informar la observación.
 
     separador
@@ -202,7 +202,7 @@
 
     .row.justify-content-center.mt-5
       .col-6
-        a.anexo.mb-4.mb-lg-0(href="https://repositorio.sena.edu.co/sitios/gestion_produccion_porcina/" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Requisitos Sanitarios y de Inocuidad en la Producciòn de carne de Ganado Bovino y Porcino1.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

@@ -28,7 +28,7 @@
 
     p(data-aos="zoom-in").mt-5 A continuación, se puede ver la definición de un indicador según el autor.
 
-    .row.justify-content-center 
+    .row.justify-content-center.mt-5 
       .col
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5(data-aos="fade-left")
           .bloque-texto-g__img(
@@ -55,7 +55,7 @@
 
     p(data-aos="zoom-in").mt-5 Un plan de contingencia es el conjunto de medidas que se articulan con la parte técnica, operativa y humana con el fin de explicar cómo actuar en el momento en que ocurra la situación o evento extraordinario. Es decir, que suministra minuciosamente cuales son las medidas y acciones que se tienen que implementar para que la empresa ganadera pueda seguir funcionando ante una emergencia. En las granjas porcinas existen diferentes planes de contingencia como los enfocados en:
 
-    .row.justify-content-center 
+    .row.justify-content-center.mt-5 
       .col-6
         img(src='@/assets/curso/temas/tema3/img4.svg').mt-5
 
@@ -152,7 +152,7 @@
             h3 Generales
             p Siempre se debe tener en cuenta la localización del predio teniendo en cuenta que su construcción debe estar alejada de terrenos inundables, con riesgos de aludes de tierra, avalanchas o incendios forestales. Si por el contrario, es una instalación antigua y no cumple con los requisitos anteriores y además se encuentra en producción, se deben generar una serie de acciones que permitan impedir que ocurra alguna contingencia que tenga que ver con un desastre y por ende, genere un impacto negativo en el producción, algunas de estas acciones son: ver anexo.
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema3/img14.png', alt='')
 
@@ -161,7 +161,7 @@
             h3 Terremotos
             p Las instalaciones deben estar en buenas condiciones de funcionamiento y estructura, construidas en materiales sólidos y resistentes. Si se presenta algún daño en la estructura, debe repararse con prontitud. Si se tienen silos de alimentación, se debe garantizar que los cimientos y la fijación de este son firmes y sobre todo, seguros.
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema3/img15.png', alt='')
 
@@ -171,7 +171,7 @@
             h3 Erupciones volcánicas
             p Estas pueden afectar de tres maneras a las producciones porcinas. La primera es por los efectos de la lava que baja a temperaturas muy elevadas, la segunda es por algunas piedras incandescentes que salen emitidas desde el punto de la erupción, y la tercera son los gases tóxicos y cenizas que cae sobre las instalaciones. 
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema3/img16.png', alt='')
 
@@ -180,7 +180,7 @@
             h3 Inundaciones o avalanchas
             p Si el predio está ubicado cerca a fuentes de agua o en terrenos que históricamente han sido golpeados por inundaciones o avalanchas, se debe construir un muro de contención que impida el ingreso de agua o material a las instalaciones. Los techos deben estar en óptimas condiciones y contar con desagües ya que en épocas fuertes de lluvia se pueden presentar inundaciones.
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema3/img17.png', alt='')
 
@@ -189,7 +189,7 @@
             h3 Incendios
             p Deben existir extintores distribuidos estratégicamente por todas las instalaciones, deben estar visibles y de fácil acceso para el personal, su parte superior nunca debe superar los 1.70 metros con el fin de facilitar su consecución y uso en caso de presentarse un incendio. Es importante contar con detectores de humo tanto en las oficinas, sitios de coincidencia con bosques o árboles, como también en la planta de alimento. 
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema3/img18.png', alt='')
 
@@ -199,7 +199,7 @@
             h3 Cortes de energía eléctrica
             p Se debe contar con un generador de energía eléctrica que debe proveer de energía como mínimo al funcionamiento de distribución de agua, alimentos y los sistemas de calefacción de lechones y cerdos destetos. 
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema3/img19.png', alt='')
 
@@ -208,17 +208,11 @@
             h3 Ingreso de enfermedades de declaración obligatoria
             p Es necesario contar con las medidas de bioseguridad vigentes y un plan sanitario a cargo del médico veterinario. 
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema3/img20.png', alt='')
 
-    .row.justify-content-center.mt-5
-      .col-6
-        a.anexo.mb-4.mb-lg-0(href="https://www.ica.gov.co/areas/pecuaria/servicios/inocuidad-en-las-cadenas-agroalimentarias/listado-de-predios-certificados-en-bpg/forma-3-519-lista-de-chequeo-predios-productores-d.aspx" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            p <b>Anexo.</b> Lista de chequeo para predios productores de carne de cerdo con destino al consumo humano – Forma 3- 519
+  
 
 </template>
 

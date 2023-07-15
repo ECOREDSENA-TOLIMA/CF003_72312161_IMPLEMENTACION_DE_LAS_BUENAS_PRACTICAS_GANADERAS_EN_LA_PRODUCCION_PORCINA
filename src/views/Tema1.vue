@@ -51,7 +51,7 @@
             h3 Generales
             p Estas son realizadas por un comité organizado para tal fin, la verificación se realiza en toda la producción, proceso por proceso y se analizan diversos aspectos productivos durante la implementación del plan.
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img3.png', alt='')
 
@@ -61,7 +61,7 @@
             p Este tipo de inspecciones se concentran en un punto específico del proceso productivo, para poder evaluarlo de forma eficiente aislado de los demás.
 
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img4.png', alt='')
 
@@ -71,7 +71,7 @@
             h3 Rutina
             p Estas verificaciones consisten en las que se hacen con regularidad para asegurar que se lleven adecuadamente los procedimientos y los procesos durante la implementación del plan, garantizando el paso a paso y previniendo posibles errores durante la marcha. Comúnmente se utilizan en el tema de recursos humanos.
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img5.png', alt='')
 
@@ -80,7 +80,7 @@
             h3 Periódicas
             p Este tipo de inspecciones están dirigidas a la evaluación y verificación de equipamientos herramientas y equipos, así como del proceso de mantenimiento de los mismos. Se realizan en tiempos determinados con previa programación pre establecida y siguiendo los protocolos para lo mismo.
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img6.png', alt='')
 
@@ -89,7 +89,7 @@
             h3 Eventuales
             p Este tipo de verificación se hace de forma esporádica con el fin de observar generalmente, sin tener una planeación previa y determinada.  
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img7.png', alt='')
 
@@ -99,7 +99,7 @@
             h3 Especiales
             p Son realizadas por un equipo de expertos junto con el comité creado para inspección, buscando que se generen reportes de fallas y poder corregirlas oportunamente durante la implementación de los componentes para la ejecución  del plan.
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img8.png', alt='')
 
@@ -108,7 +108,7 @@
             h3 Oficiales
             p Este tipo de inspecciones es externo, la evaluación y verificación se hace por parte de entidades oficiales o estatales.
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img9.png', alt='')
 
@@ -118,7 +118,7 @@
 
     p(data-aos="zoom-in") Con el fin de realizar el proceso de inspección correctamente se hace necesario que se definan ciertos criterios tales como los muestra la siguiente imagen.
 
-    .titulo-sexto.color-acento-contenido.mb-3
+    .titulo-sexto.color-acento-contenido.mb-3.mt-5
       h5 Figura 1. 
       span <i>Metodología e interpretación</i>
     .row

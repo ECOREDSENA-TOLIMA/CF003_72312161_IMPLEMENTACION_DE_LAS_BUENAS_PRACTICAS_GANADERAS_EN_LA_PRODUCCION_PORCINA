@@ -20,7 +20,7 @@
 
     SlyderB.mb-5.mt-5(:datos="datosSlyder")
 
-    p(data-aos="zoom-in") En ese orden de ideas la gestión de calidad se ajusta y varía de acuerdo a cada etapa productiva con el fin de que se puedan establecer sus propios parámetros o estándares, los cuales no son más que modelos referenciales para poder medir y valorar el nivel de desempeño del procedimiento o proceso. Es por esto que para hacer dichas mediciones se establecen en las unidades productivas porcinas los sistemas de gestión de calidad.
+    p(data-aos="zoom-in").mt-5 En ese orden de ideas la gestión de calidad se ajusta y varía de acuerdo a cada etapa productiva con el fin de que se puedan establecer sus propios parámetros o estándares, los cuales no son más que modelos referenciales para poder medir y valorar el nivel de desempeño del procedimiento o proceso. Es por esto que para hacer dichas mediciones se establecen en las unidades productivas porcinas los sistemas de gestión de calidad.
     p(data-aos="zoom-in") El sistema de gestión de calidad entonces está compuesto por todos los elementos que lo conforman con el propósito de asegurar un desempeño continuo y estable, evitando de esta forma cambios imprevistos. También, el sistema de calidad da la posibilidad de realizar mejoras agregando nuevos procesos que contribuyan al mejoramiento. A continuación, se describen algunos elementos que conforman el sistema de calidad (ver figura 2):
 
     .titulo-sexto.color-acento-contenido.mb-3.mt-5
@@ -47,7 +47,7 @@
     p(data-aos="zoom-in").mt-5 En el caso de la gestión de calidad en la unidad pecuaria porcina debe tenerse en cuenta como principal referente a los protocolos o procedimientos, para llevar a cabo con el fin de verificar las actividades, la eficiencia y efectividad de los mismos debe tenerse en cuenta la normativa ISO 9001, la cual es una pauta internacional que toma en cuenta las actividades de una unidad productiva sin hacer distinción de su rubro porque se centra en la satisfacción del cliente y en la capacidad de proveer productos y servicios que cumplan con las exigencias establecidas.
     p(data-aos="zoom-in") En este orden de ideas los protocolos pueden variar dependiendo de los tipos de procesos que se están llevando a cabo, así como los recursos, instalaciones, propósito de la producción, etapa productiva, personal, entre otros, por lo cual se deben tener en cuenta los siguientes principios como base para diseñar los protocolos de gestión de calidad. En el siguiente esquema se puede observar cada uno de estos principios:
 
-    TabsA.color-acento-botones
+    TabsA.color-acento-botones.mt-5
       .tarjeta.color-acento-botones--borde.p-4(titulo="Cliente")
         h4 Cliente
         p Comprender sus necesidades y cumplir con sus expectativas es la clave para satisfacer las exigencias de los consumidores y mantener su fidelidad.
