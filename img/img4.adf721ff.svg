@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="745" height="291" viewBox="0 0 745 291">
+  <g id="Grupo_98369" data-name="Grupo 98369" transform="translate(-428 -2176)">
+    <rect id="Rectángulo_52389" data-name="Rectángulo 52389" width="302" height="127" rx="27" transform="translate(428 2176)" fill="#ffa726"/>
+    <rect id="Rectángulo_52391" data-name="Rectángulo 52391" width="302" height="127" rx="27" transform="translate(871 2176)" fill="#79e949"/>
+    <rect id="Rectángulo_52390" data-name="Rectángulo 52390" width="302" height="127" rx="27" transform="translate(428 2340)" fill="#bf8d48"/>
+    <rect id="Rectángulo_52392" data-name="Rectángulo 52392" width="302" height="127" rx="27" transform="translate(871 2340)" fill="#ffd54f"/>
+    <g id="Elipse_4782" data-name="Elipse 4782" transform="translate(667 2193)" fill="#324700" stroke="#707070" stroke-width="1">
+      <circle cx="132" cy="132" r="132" stroke="none"/>
+      <circle cx="132" cy="132" r="131.5" fill="none"/>
+    </g>
+    <text id="Planes_de_contingencia_en_las_granjas_porcinas_" data-name="Planes de contingencia en las granjas porcinas
+" transform="translate(703 2300)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="2.337" y="17">Planes de contingencia </tspan><tspan x="3.256" y="42">en las granjas porcinas</tspan><tspan x="97" y="67"></tspan></text>
+    <text id="Área_sanitaria" data-name="Área sanitaria" transform="translate(482 2228)" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="40.161" y="17">Área sanitaria</tspan></text>
+    <text id="Área_alimentaria" data-name="Área alimentaria" transform="translate(924 2228)" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="29.645" y="17">Área alimentaria</tspan></text>
+    <text id="Área_de_riesgos" data-name="Área de riesgos" transform="translate(482 2393)" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="33.187" y="17">Área de riesgos</tspan></text>
+    <text id="Área_de_desastres" data-name="Área de desastres" transform="translate(924 2393)" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="23.537" y="17">Área de desastres</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1079" height="612.991" viewBox="0 0 1079 612.991">
+  <g id="Grupo_98367" data-name="Grupo 98367" transform="translate(-262.667 -2857)">
+    <line id="Línea_341" data-name="Línea 341" y2="126" transform="translate(799.667 2904)" fill="none" stroke="#bf8d48" stroke-width="3"/>
+    <path id="Trazado_183767" data-name="Trazado 183767" d="M21.187,0H145.4c11.7,0,21.187,13.983,21.187,31.232S157.105,62.464,145.4,62.464H21.187C9.486,62.464,0,48.481,0,31.232S9.486,0,21.187,0Z" transform="translate(715.872 2857)" fill="#ffd54f"/>
+    <text id="Criterios_" data-name="Criterios
+" transform="translate(797.667 2894)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-34.849" y="0">Criterios</tspan><tspan x="0" y="24"></tspan></text>
+    <line id="Línea_339" data-name="Línea 339" x2="830" transform="translate(385.167 3029.5)" fill="none" stroke="#bf8d48" stroke-width="3"/>
+    <line id="Línea_340" data-name="Línea 340" y2="366" transform="translate(384.667 3030)" fill="none" stroke="#bf8d48" stroke-width="3"/>
+    <line id="Línea_342" data-name="Línea 342" y2="107" transform="translate(799.667 3030)" fill="none" stroke="#bf8d48" stroke-width="3"/>
+    <line id="Línea_344" data-name="Línea 344" y2="199" transform="translate(716.667 3144)" fill="none" stroke="#bf8d48" stroke-width="3"/>
+    <line id="Línea_345" data-name="Línea 345" y2="199" transform="translate(886.667 3144)" fill="none" stroke="#bf8d48" stroke-width="3"/>
+    <line id="Línea_343" data-name="Línea 343" y2="388" transform="translate(1214.667 3030)" fill="none" stroke="#bf8d48" stroke-width="3"/>
+    <path id="Trazado_183767-2" data-name="Trazado 183767" d="M32.43,0H222.57C240.48,0,255,18.58,255,41.5S240.48,83,222.57,83H32.43C14.52,83,0,64.42,0,41.5S14.52,0,32.43,0Z" transform="translate(262.667 3069)" fill="#b8ff9a"/>
+    <path id="Trazado_183767-3" data-name="Trazado 183767" d="M32.43,0H222.57C240.48,0,255,18.58,255,41.5S240.48,83,222.57,83H32.43C14.52,83,0,64.42,0,41.5S14.52,0,32.43,0Z" transform="translate(671.667 3069)" fill="#b8ff9a"/>
+    <path id="Trazado_183767-4" data-name="Trazado 183767" d="M32.43,0H222.57C240.48,0,255,18.58,255,41.5S240.48,83,222.57,83H32.43C14.52,83,0,64.42,0,41.5S14.52,0,32.43,0Z" transform="translate(1086.667 3069)" fill="#b8ff9a"/>
+    <text id="Procesos" transform="translate(390.667 3117)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-37.92" y="0">Procesos</tspan></text>
+    <text id="Periocidad" transform="translate(799.667 3117)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-43.418" y="0">Periocidad</tspan></text>
+    <text id="Objeto" transform="translate(1214.667 3117)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-26.481" y="0">Objeto</tspan></text>
+    <path id="Trazado_183767-5" data-name="Trazado 183767" d="M21.06,0H144.532c11.631,0,21.06,12.344,21.06,27.57s-9.429,27.57-21.06,27.57H21.06C9.429,55.141,0,42.8,0,27.57S9.429,0,21.06,0Z" transform="translate(716.871 2945)" fill="#b8ff9a"/>
+    <path id="Trazado_183767-6" data-name="Trazado 183767" d="M21.06,0H144.532c11.631,0,21.06,12.344,21.06,27.57s-9.429,27.57-21.06,27.57H21.06C9.429,55.141,0,42.8,0,27.57S9.429,0,21.06,0Z" transform="translate(301.871 3166.5)" fill="#e0efaa"/>
+    <path id="Trazado_183767-7" data-name="Trazado 183767" d="M21.06,0H144.532c11.631,0,21.06,12.344,21.06,27.57s-9.429,27.57-21.06,27.57H21.06C9.429,55.141,0,42.8,0,27.57S9.429,0,21.06,0Z" transform="translate(1132.204 3200)" fill="#e0efaa"/>
+    <path id="Trazado_183767-8" data-name="Trazado 183767" d="M21.06,0H144.532c11.631,0,21.06,12.344,21.06,27.57s-9.429,27.57-21.06,27.57H21.06C9.429,55.141,0,42.8,0,27.57S9.429,0,21.06,0Z" transform="translate(630.204 3166.5)" fill="#e0efaa"/>
+    <path id="Trazado_183767-9" data-name="Trazado 183767" d="M21.06,0H144.532c11.631,0,21.06,12.344,21.06,27.57s-9.429,27.57-21.06,27.57H21.06C9.429,55.141,0,42.8,0,27.57S9.429,0,21.06,0Z" transform="translate(804.204 3166.5)" fill="#e0efaa"/>
+    <path id="Trazado_183767-10" data-name="Trazado 183767" d="M21.06,0H144.532c11.631,0,21.06,12.344,21.06,27.57s-9.429,27.57-21.06,27.57H21.06C9.429,55.141,0,42.8,0,27.57S9.429,0,21.06,0Z" transform="translate(301.871 3300.5)" fill="#e0efaa"/>
+    <path id="Trazado_183767-11" data-name="Trazado 183767" d="M21.06,0H144.532c11.631,0,21.06,12.344,21.06,27.57s-9.429,27.57-21.06,27.57H21.06C9.429,55.141,0,42.8,0,27.57S9.429,0,21.06,0Z" transform="translate(1132.204 3334)" fill="#e0efaa"/>
+    <path id="Trazado_183767-12" data-name="Trazado 183767" d="M21.06,0H144.532c11.631,0,21.06,12.344,21.06,27.57s-9.429,27.57-21.06,27.57H21.06C9.429,55.141,0,42.8,0,27.57S9.429,0,21.06,0Z" transform="translate(630.204 3300.5)" fill="#e0efaa"/>
+    <path id="Trazado_183767-13" data-name="Trazado 183767" d="M21.06,0H144.532c11.631,0,21.06,12.344,21.06,27.57s-9.429,27.57-21.06,27.57H21.06C9.429,55.141,0,42.8,0,27.57S9.429,0,21.06,0Z" transform="translate(804.204 3300.5)" fill="#e0efaa"/>
+    <path id="Trazado_183767-14" data-name="Trazado 183767" d="M21.06,0H144.532c11.631,0,21.06,12.344,21.06,27.57s-9.429,27.57-21.06,27.57H21.06C9.429,55.141,0,42.8,0,27.57S9.429,0,21.06,0Z" transform="translate(301.871 3233.5)" fill="#e0efaa"/>
+    <path id="Trazado_183767-15" data-name="Trazado 183767" d="M21.06,0H144.532c11.631,0,21.06,12.344,21.06,27.57s-9.429,27.57-21.06,27.57H21.06C9.429,55.141,0,42.8,0,27.57S9.429,0,21.06,0Z" transform="translate(1132.204 3267)" fill="#e0efaa"/>
+    <path id="Trazado_183767-16" data-name="Trazado 183767" d="M21.06,0H144.532c11.631,0,21.06,12.344,21.06,27.57s-9.429,27.57-21.06,27.57H21.06C9.429,55.141,0,42.8,0,27.57S9.429,0,21.06,0Z" transform="translate(630.204 3233.5)" fill="#e0efaa"/>
+    <path id="Trazado_183767-17" data-name="Trazado 183767" d="M21.06,0H144.532c11.631,0,21.06,12.344,21.06,27.57s-9.429,27.57-21.06,27.57H21.06C9.429,55.141,0,42.8,0,27.57S9.429,0,21.06,0Z" transform="translate(804.204 3233.5)" fill="#e0efaa"/>
+    <path id="Trazado_183767-18" data-name="Trazado 183767" d="M21.06,0H144.532c11.631,0,21.06,12.344,21.06,27.57s-9.429,27.57-21.06,27.57H21.06C9.429,55.141,0,42.8,0,27.57S9.429,0,21.06,0Z" transform="translate(301.871 3367.5)" fill="#e0efaa"/>
+    <path id="Trazado_183767-19" data-name="Trazado 183767" d="M21.06,0H144.532c11.631,0,21.06,15.444,21.06,34.5s-9.429,34.5-21.06,34.5H21.06C9.429,68.991,0,53.547,0,34.5S9.429,0,21.06,0Z" transform="translate(1132.204 3401)" fill="#e0efaa"/>
+    <text id="Inspeccionar" transform="translate(800 2979.07)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-52.233" y="0">Inspeccionar</tspan></text>
+    <text id="Ambiente" transform="translate(385 3200.57)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-38.9" y="0">Ambiente</tspan></text>
+    <text id="Calidad" transform="translate(1215.333 3234.07)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-30.454" y="0">Calidad</tspan></text>
+    <text id="Si_es_de" data-name="Si es de" transform="translate(1258.796 3183.5)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-31.83" y="0">Si es de</tspan></text>
+    <text id="Diario" transform="translate(713.333 3200.57)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-23.818" y="0">Diario</tspan></text>
+    <text id="Semanal" transform="translate(887.333 3200.57)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-35.266" y="0">Semanal</tspan></text>
+    <text id="Equipamiento" transform="translate(385 3334.57)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-55.459" y="0">Equipamiento</tspan></text>
+    <text id="Seguridad" transform="translate(1215.333 3368.07)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-41.208" y="0">Seguridad</tspan></text>
+    <text id="Semestral" transform="translate(713.333 3334.57)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-41.084" y="0">Semestral</tspan></text>
+    <text id="Anual" transform="translate(887.333 3334.57)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-23.133" y="0">Anual</tspan></text>
+    <text id="Indumentaria" transform="translate(385 3267.57)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-53.829" y="0">Indumentaria</tspan></text>
+    <text id="Mantenimiento" transform="translate(1215.333 3301.07)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-61.163" y="0">Mantenimiento</tspan></text>
+    <text id="Quincenal" transform="translate(713.333 3267.57)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-40.487" y="0">Quincenal</tspan></text>
+    <text id="Mensual" transform="translate(887.333 3267.57)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-34.664" y="0">Mensual</tspan></text>
+    <text id="Personal" transform="translate(385 3401.57)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-35.864" y="0">Personal</tspan></text>
+    <text id="Gestión_de_procesos" data-name="Gestión de 
+procesos" transform="translate(1215.333 3429.57)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-45.598" y="0">Gestión de </tspan><tspan x="-37.182" y="24">procesos</tspan></text>
+  </g>
+</svg>
