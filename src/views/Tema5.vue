@@ -14,7 +14,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p La Gestión de la Información (GI) es un conjunto de acciones que permiten el control sobre el ciclo de vida de la información que se genera en la empresa porcina, desde su creación o captura (obtención), hasta su archivo o eliminación (disposición final). El principal objetivo de la GI es el de garantizar la integridad, disponibilidad y confidencial de la información. El sistema de GI está conformado por herramientas (software y hardware) que, unido a protocolos y procedimientos de trabajo, pueden generar la información que se necesita para disminuir el riesgo en la toma de decisiones en la empresa porcina.  
+            p La Gestión de la Información (GI) es un conjunto de acciones que permiten el control sobre el ciclo de vida de la información que se genera en la empresa porcina, desde su creación o captura (obtención), hasta su archivo o eliminación (disposición final). El principal objetivo de la GI es el de garantizar la integridad, disponibilidad y confidencial de la información. El sistema de GI está conformado por herramientas (<i>software</i> y <i>hardware</i>) que, unido a protocolos y procedimientos de trabajo, pueden generar la información que se necesita para disminuir el riesgo en la toma de decisiones en la empresa porcina.  
 
     .row.justify-content-center.mt-5
       .col-6
@@ -24,7 +24,7 @@
           .anexo__texto
             p <b>Anexo.</b> Gestión producción porcina
 
-    p(data-aos="zoom-in").mt-5 Independiente del tamaño y las características de la empresa, el sistema de Gestión de la Información se conforma de cinco pasos:
+    p(data-aos="zoom-in").mt-5 Las características principales del informe son:
 
     .row.justify-content-center 
       .col-4
@@ -38,7 +38,7 @@
           p • Análisis de la información
           p • Toma de decisiones
 
-    p(data-aos="zoom-in").mt-5 Si se establecen y siguen estos pasos se conseguirá un sistema de gestión de la información fuerte que permitirá mejorar eficientemente la producción y los estándares de calidad del producto ofertado al mercado. A continuación, se puede observar un sistema de gestión de la información.
+    p(data-aos="zoom-in").mt-5 Si se establecen y siguen estos pasos, se conseguirá un sistema de gestión de la información fuerte que permitirá mejorar eficientemente la producción y los estándares de calidad del producto ofertado al mercado. A continuación, se puede observar un sistema de gestión de la información:
 
     .row.mt-5.justify-content-center 
       .col-8

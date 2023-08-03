@@ -37,7 +37,7 @@
     p(data-aos="zoom-in") En la siguiente tabla 2 se puede observar el total de criterios que son utilizados con una lista de chequeo para la certificación de BPG para el sacrificio.
 
     .col-12.titulo-sexto.color-acento-contenido.mt-3(data-aos="fade-right")
-      p.titulo.pb-0.mb-0 <b>Tabla 1.</b> <i>Totalización de criterios para certificación de BPG </i>
+      p.titulo.pb-0.mb-0 <b>Tabla 2.</b> <i>Totalización de criterios para certificación de BPG </i>
 
     .tabla-a.color-acento-contenido.mt-5(data-aos="fade-left")
       table
@@ -57,7 +57,7 @@
             td.text-center 23
             td 
             td 
-            td.text-center 100%
+            td.text-center 100 %
             td
             td
           tr
@@ -65,7 +65,7 @@
             td.text-center 34
             td 
             td 
-            td.text-center 80%
+            td.text-center 80 %
             td
             td
           tr
@@ -73,7 +73,7 @@
             td.text-center 5
             td 
             td 
-            td.text-center 60%
+            td.text-center 60 %
             td
             td
 
@@ -92,7 +92,7 @@
               img(src='@/assets/curso/temas/tema7/img2.svg', alt='')
           
         h2.text-center.text-white Certicable
-        p.text-white El concepto técnico será certificable cuando el predio cumpla con: el 100% de los criterios fundamentales, mínimo el 80% de los criterios mayores y mínimo 60 % de los criterios menores, ante lo cual se expedirá el certificado de Buenas Prácticas Ganaderas BPG en la producción porcina. (Resolución 76509 de 2020, ICA).
+        p.text-white El concepto técnico será certificable cuando el predio cumpla con: el 100 % de los criterios fundamentales, mínimo el 80 % de los criterios mayores y mínimo 60 % de los criterios menores, ante lo cual se expedirá el certificado de Buenas Prácticas Ganaderas BPG en la producción porcina. (Resolución 76509 de 2020, ICA).
       .col-md.tarjeta.color-primario.p-5
         .row.justify-content-center.mb-4
           .col-6
@@ -100,7 +100,7 @@
               img(src='@/assets/curso/temas/tema7/img3.svg', alt='')
           
         h2.text-center Aplazado
-        p El concepto será aplazado, cuando el predio cumpla con menos del 100% de los criterios fundamentales, y/o menos del 80% de los criterios mayores, y/o menos del 60% de los criterios menores; las no conformidades encontradas se pueden corregir en un plazo máximo de tres (3) meses, contados a partir de la fecha de la visita. Una vez cumplidos dichos requerimientos, la persona podrá remitir la documentación pertinente o informar al ICA o a quien éste autorice, con el fin de programar una nueva visita para la auditoría del predio.
+        p El concepto será aplazado, cuando el predio cumpla con menos del 100 % de los criterios fundamentales, y/o menos del 80 % de los criterios mayores, y/o menos del 60 % de los criterios menores; las no conformidades encontradas se pueden corregir en un plazo máximo de tres (3) meses, contados a partir de la fecha de la visita. Una vez cumplidos dichos requerimientos, la persona podrá remitir la documentación pertinente o informar al ICA o a quien éste autorice, con el fin de programar una nueva visita para la auditoría del predio.
 
     separador
     #t_7_2.titulo-segundo.color-acento-contenido

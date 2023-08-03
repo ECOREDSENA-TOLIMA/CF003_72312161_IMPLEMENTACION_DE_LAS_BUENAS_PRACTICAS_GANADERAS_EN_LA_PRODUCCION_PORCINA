@@ -42,7 +42,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido
       h2 1.2 Componentes
 
-    p(data-aos="zoom-in") Los componentes que hacen parte de la inspección son la observación, la evaluación y el análisis comparativo de los parámetros esperados con los obtenidos en el proceso productivo, pero estos pueden variar de acuerdo al tipo de inspección que se puede desarrollar en el procedimiento de la unidad productiva, es por esto que se hace necesario conocer dicha clasificación, la cual se describe a continuación.
+    p(data-aos="zoom-in") Los componentes que hacen parte de la inspección son la observación, la evaluación y el análisis comparativo de los parámetros esperados con los obtenidos en el proceso productivo, pero estos pueden variar de acuerdo al tipo de inspección que se puede desarrollar en el procedimiento de la unidad productiva, es por esto que se hace necesario conocer dicha clasificación, la cual se describe a continuación:
 
     .tarjeta.p-4(style="background-color: #EBE1BF").mb-5(data-aos="fade-left").mt-5
       SlyderA(tipo="b")
@@ -78,7 +78,7 @@
         .row.justify-content-center.align-items-center.my-lg-4
           .col-md-6.mb-4.mb-md-0
             h3 Periódicas
-            p Este tipo de inspecciones están dirigidas a la evaluación y verificación de equipamientos herramientas y equipos, así como del proceso de mantenimiento de los mismos. Se realizan en tiempos determinados con previa programación pre establecida y siguiendo los protocolos para lo mismo.
+            p Este tipo de inspecciones están dirigidas a la evaluación y verificación de equipamientos, herramientas y equipos, así como del proceso de mantenimiento de los mismos. Se realizan en tiempos determinados con previa programación pre establecida y siguiendo los protocolos para lo mismo.
 
           .col-md-6.p-3
             figure
@@ -126,7 +126,7 @@
         img(src='@/assets/curso/temas/tema1/img10.svg' alt='')
         figcaption Nota. SENA (2022).
 
-    p(data-aos="zoom-in").mt-5 Luego de identificar estos aspectos se debe identificar los elementos a comprobar uno por uno, de tal modo que, si existe algún obstáculo, error, o traba se pueda establecer con facilidad, para lo cual se recomienda que todos los procesos en la unidad productiva estén organizados y estructurados, de tal forma que contribuyan en la elaboración de una lista de inspección. Analizando de esta forma el estado de cada nivel, escrutando con detenimiento como debe llevarse todo con el propósito de mantener la seguridad, calidad e inocuidad.
+    p(data-aos="zoom-in").mt-5 Luego de identificar estos aspectos, se debe identificar los elementos a comprobar uno por uno, de tal modo que, si existe algún obstáculo, error, o traba, se pueda establecer con facilidad, para lo cual se recomienda que todos los procesos en la unidad productiva estén organizados y estructurados, de tal forma que contribuyan en la elaboración de una lista de inspección. Analizando de esta forma el estado de cada nivel, escrutando con detenimiento como debe llevarse todo con el propósito de mantener la seguridad, calidad e inocuidad.
     p(data-aos="zoom-in") Después de identificar todos estos elementos, es importante crear un documento que será la base de su inspección.
 
     .row.mt-5(data-aos="fade-right")

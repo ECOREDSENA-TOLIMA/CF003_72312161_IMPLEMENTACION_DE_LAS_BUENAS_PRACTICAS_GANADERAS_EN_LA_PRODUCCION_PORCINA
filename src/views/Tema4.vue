@@ -46,7 +46,7 @@
             .h5.mb-2 Resultados de auditorías
             p Son los resultados o inspecciones al sistema cuando los auditores internos o externos incluyen en sus informes las recomendaciones para la implementación de acciones correctivas en ISO 9001.
 
-    p(data-aos="zoom-in").mt-5 Las acciones correctivas pueden ser de dos tipos inmediatas y preventivas, las primeras son reactivas, mientras las segundas son proactivas. A continuación, se muestra el siguiente recurso para analizar cada una de ellas.
+    p(data-aos="zoom-in").mt-5 Las acciones correctivas pueden ser de dos tipos inmediatas y preventivas, las primeras son reactivas, mientras las segundas son proactivas. A continuación, se muestra el siguiente recurso para analizar cada una de ellas:
 
     TabsC.color-acento-contenido.mt-5
       .py-3.py-md-4(titulo="Acciones correctivas inmediatas")

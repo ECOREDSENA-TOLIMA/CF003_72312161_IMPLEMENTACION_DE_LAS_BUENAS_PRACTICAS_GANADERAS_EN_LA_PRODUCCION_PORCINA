@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Evaluación y monitoreo en la implementación de BPG en la producción porcina',
     descripcionCurso:
-      'Este componente tratará los temas sobre la evaluación seguimiento y plan de contingencia en el monitoreo de la implementación de las Buenas Prácticas Ganaderas (BPG) en la producción porcina, profundizando en la trazabilidad y las acciones correctivas sobre la implementación en la unidad productiva porcícola.',
+      'Este componente tratará los temas sobre la evaluación, seguimiento y plan de contingencia en el monitoreo de la implementación de las Buenas Prácticas Ganaderas (BPG) en la producción porcina, profundizando en la trazabilidad y las acciones correctivas sobre la implementación en la unidad productiva porcícola.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -231,7 +231,7 @@ export default {
         'eliminación total de una enfermedad o plaga de animales y vegetales en un área geográfica determinada. Manual de buenas prácticas pecuarias en bovinos, porcinos y aves, (2016).',
     },
     {
-      termino: 'Lista de chequeo:',
+      termino: 'Lista de chequeo',
       significado:
         'formato de control que se utiliza para registrar actividades repetitivas y controlar el cumplimiento de una serie de requisitos o recolectar datos ordenadamente y de forma sistemática. Biblioteca UDG Virtual, (2022).',
     },

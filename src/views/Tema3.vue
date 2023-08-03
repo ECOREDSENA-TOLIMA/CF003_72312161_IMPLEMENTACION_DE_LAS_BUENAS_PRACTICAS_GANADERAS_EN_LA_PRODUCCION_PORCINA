@@ -51,7 +51,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img3.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p Las contingencias hacen referencia a aquellas situaciones o eventos que podrían suceder en la producción y que acarrearían consecuencias negativas o positivas en la empresa porcina. Si este hecho llegara a ocurrir o materializarse mejoraría o empeoraría las condiciones productivas de la empresa. Aunque no se tiene certeza de su ocurrencia, es posible que pase y por esto es muy importante que se diseñen planes de contingencia para así poder enfrentarse a algunas situaciones que puedan suceder. 
+            p Las contingencias hacen referencia a aquellas situaciones o eventos que podrían suceder en la producción y que acarrearían consecuencias negativas o positivas en la empresa porcina. Si este hecho llegara a ocurrir o materializarse, mejoraría o empeoraría las condiciones productivas de la empresa. Aunque no se tiene certeza de su ocurrencia, es posible que pase y por esto es muy importante que se diseñen planes de contingencia para así poder enfrentarse a algunas situaciones que puedan suceder. 
 
     p(data-aos="zoom-in").mt-5 Un plan de contingencia es el conjunto de medidas que se articulan con la parte técnica, operativa y humana con el fin de explicar cómo actuar en el momento en que ocurra la situación o evento extraordinario. Es decir, que suministra minuciosamente cuales son las medidas y acciones que se tienen que implementar para que la empresa ganadera pueda seguir funcionando ante una emergencia. En las granjas porcinas existen diferentes planes de contingencia como los enfocados en:
 
@@ -139,7 +139,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img13.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p El plan de contingencia debe tener un capítulo que hable detalladamente sobre las medidas de prevención y mitigación a ejecutar, con el fin de evitar que sucedan las contingencias o si ocurren, que causen el menor impacto posible en la empresa porcina. Las acciones se pueden clasificar en medidas generales o especificas dependiendo del tipo de contingencia y consisten en actividades que se plantean para organizar de manera rápida los materiales, equipos y recurso humano para dar respuesta rápida y eficaz a una contingencia. Estas medidas pueden ser generales o específicas para el tipo de contingencia como se detalla a continuación:
+            p El plan de contingencia debe tener un capítulo que hable detalladamente sobre las medidas de prevención y mitigación a ejecutar, con el fin de evitar que sucedan las contingencias o si ocurren, que causen el menor impacto posible en la empresa porcina. Las acciones se pueden clasificar en medidas generales o específicas dependiendo del tipo de contingencia y consisten en actividades que se plantean para organizar de manera rápida los materiales, equipos y recurso humano para dar respuesta rápida y eficaz a una contingencia. Estas medidas pueden ser generales o específicas para el tipo de contingencia, como se detalla a continuación:
 
     separador
     #titulo-segundo.color-acento-contenido
@@ -150,7 +150,7 @@
         .row.justify-content-center.align-items-center.my-lg-4
           .col-md-6.mb-4.mb-md-0
             h3 Generales
-            p Siempre se debe tener en cuenta la localización del predio teniendo en cuenta que su construcción debe estar alejada de terrenos inundables, con riesgos de aludes de tierra, avalanchas o incendios forestales. Si por el contrario, es una instalación antigua y no cumple con los requisitos anteriores y además se encuentra en producción, se deben generar una serie de acciones que permitan impedir que ocurra alguna contingencia que tenga que ver con un desastre y por ende, genere un impacto negativo en el producción, algunas de estas acciones son: ver anexo.
+            p Siempre se debe tener en cuenta la localización del predio teniendo en cuenta que su construcción debe estar alejada de terrenos inundables, con riesgos de aludes de tierra, avalanchas o incendios forestales. Si por el contrario, es una instalación antigua y no cumple con los requisitos anteriores y además se encuentra en producción, se deben generar una serie de acciones que permitan impedir que ocurra alguna contingencia que tenga que ver con un desastre y por ende, genere un impacto negativo en la producción.
 
           .col-md-6.p-3
             figure
@@ -178,7 +178,7 @@
         .row.justify-content-center.align-items-center.my-lg-4
           .col-md-6.mb-4.mb-md-0
             h3 Inundaciones o avalanchas
-            p Si el predio está ubicado cerca a fuentes de agua o en terrenos que históricamente han sido golpeados por inundaciones o avalanchas, se debe construir un muro de contención que impida el ingreso de agua o material a las instalaciones. Los techos deben estar en óptimas condiciones y contar con desagües ya que en épocas fuertes de lluvia se pueden presentar inundaciones.
+            p Si el predio está ubicado cerca a fuentes de agua o en terrenos que históricamente han sido golpeados por inundaciones o avalanchas, se debe construir un muro de contención que impida el ingreso de agua o material a las instalaciones. Los techos deben estar en óptimas condiciones y contar con desagües, ya que en épocas fuertes de lluvia se pueden presentar inundaciones.
 
           .col-md-6.p-3
             figure

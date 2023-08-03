@@ -20,7 +20,7 @@
 
     SlyderB.mb-5.mt-5(:datos="datosSlyder")
 
-    p(data-aos="zoom-in").mt-5 En ese orden de ideas la gestión de calidad se ajusta y varía de acuerdo a cada etapa productiva con el fin de que se puedan establecer sus propios parámetros o estándares, los cuales no son más que modelos referenciales para poder medir y valorar el nivel de desempeño del procedimiento o proceso. Es por esto que para hacer dichas mediciones se establecen en las unidades productivas porcinas los sistemas de gestión de calidad.
+    p(data-aos="zoom-in").mt-5 En ese orden de ideas, la gestión de calidad se ajusta y varía de acuerdo a cada etapa productiva con el fin de que se puedan establecer sus propios parámetros o estándares, los cuales no son más que modelos referenciales para poder medir y valorar el nivel de desempeño del procedimiento o proceso. Es por esto que para hacer dichas mediciones se establecen en las unidades productivas porcinas los sistemas de gestión de calidad.
     p(data-aos="zoom-in") El sistema de gestión de calidad entonces está compuesto por todos los elementos que lo conforman con el propósito de asegurar un desempeño continuo y estable, evitando de esta forma cambios imprevistos. También, el sistema de calidad da la posibilidad de realizar mejoras agregando nuevos procesos que contribuyan al mejoramiento. A continuación, se describen algunos elementos que conforman el sistema de calidad (ver figura 2):
 
     .titulo-sexto.color-acento-contenido.mb-3.mt-5
@@ -92,9 +92,9 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img9.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p También llamada check list, hoja de control, planilla de inspección, hoja de verificación, es un formato que se usa para recopilar información o datos por medio de la observación de una actividad, proceso o situación y es una de las herramientas para evaluar la calidad más utilizada. Los datos obtenidos representan un aporte para la utilización de otras herramientas de control de calidad tales como el diagrama de Pareto o dispersión. Pero además esta herramienta es multipropósitos ya que es utilizada en diversos ámbitos más allá que de la calidad.
+            p También llamada <i>check list</i>, hoja de control, planilla de inspección, hoja de verificación, es un formato que se usa para recopilar información o datos por medio de la observación de una actividad, proceso o situación y es una de las herramientas para evaluar la calidad más utilizada. Los datos obtenidos representan un aporte para la utilización de otras herramientas de control de calidad tales como el diagrama de Pareto o dispersión. Pero además esta herramienta es multipropósitos, ya que es utilizada en diversos ámbitos más allá que de la calidad.
 
-    p(data-aos="zoom-in").mt-5 Aunque normalmente la lista de chequeo se aplica de manera física o impresa, también se puede encontrar de manera digital encontrándose en software a través de dispositivos como las tabletas o móviles, haciéndola de mayor acceso y aportando beneficios como el ágil llenado y guardado de datos simultaneo a lo que se chequea, realizando un tabulado automático a medida que se va diligenciando la lista, por lo que los resultados obtenidos son casi inmediatos a la inspección.
+    p(data-aos="zoom-in").mt-5 Aunque normalmente la lista de chequeo se aplica de manera física o impresa, también se puede encontrar de manera digital encontrándose en <i>software</i> a través de dispositivos como las tabletas o móviles, haciéndola de mayor acceso y aportando beneficios como el ágil llenado y guardado de datos simultáneo a lo que se chequea, realizando un tabulado automático a medida que se va diligenciando la lista, por lo que los resultados obtenidos son casi inmediatos a la inspección.
     p(data-aos="zoom-in") En la verificación de la eficiencia, efectividad y calidad del proceso se utiliza la lista de chequeo diseñada por el Instituto Colombiano Agropecuario ICA, ya que es especial para la producción porcina. A continuación, se presenta la lista de chequeo:  
 
     .row.justify-content-center.mt-5
@@ -118,7 +118,7 @@
           .bloque-texto-g__texto.p-4
             p Un reporte de fallas y dificultades tiene como objeto el informar los defectos, errores, fallas o cualquier anormalidad que pueda afectar de alguna manera los procesos productivos en la implementación del plan o en cualquiera de las actividades, procedimientos o procesos involucrados en el mismo, por lo general se presenta en un formato predeterminado o a través de un informe, el cual explique directamente cada uno de los puntos que se verificaron y que no cumplen con los criterios pre establecidos, formulando posibles soluciones y recomendaciones para poder subsanarlas.
 
-    p(data-aos="zoom-in").mt-5 Por lo general el informe de fallas debe ser lo más preciso posible, organizado, descriptivo y verás con el fin de que se conozca las situaciones y de forma estratégica se ofrezcan una o más propuestas para subsanar y corregir los puntos o aspectos con ausencia de conformidad.
+    p(data-aos="zoom-in").mt-5 Por lo general, el informe de fallas debe ser lo más preciso posible, organizado, descriptivo y verás, con el fin de que se conozca las situaciones y de forma estratégica se ofrezcan una o más propuestas para subsanar y corregir los puntos o aspectos con ausencia de conformidad.
 
     
 </template>
