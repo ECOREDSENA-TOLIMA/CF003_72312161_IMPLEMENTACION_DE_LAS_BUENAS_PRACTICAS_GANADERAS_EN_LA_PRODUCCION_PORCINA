@@ -16,13 +16,7 @@
           .bloque-texto-g__texto.p-4
             p La Gestión de la Información (GI) es un conjunto de acciones que permiten el control sobre el ciclo de vida de la información que se genera en la empresa porcina, desde su creación o captura (obtención), hasta su archivo o eliminación (disposición final). El principal objetivo de la GI es el de garantizar la integridad, disponibilidad y confidencial de la información. El sistema de GI está conformado por herramientas (<i>software</i> y <i>hardware</i>) que, unido a protocolos y procedimientos de trabajo, pueden generar la información que se necesita para disminuir el riesgo en la toma de decisiones en la empresa porcina.  
 
-    .row.justify-content-center.mt-5
-      .col-6
-        a.anexo.mb-4.mb-lg-0(href="https://repositorio.sena.edu.co/sitios/gestion_produccion_porcina/" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            p <b>Anexo.</b> Gestión producción porcina
+    
 
     p(data-aos="zoom-in").mt-5 Las características principales del informe son:
 

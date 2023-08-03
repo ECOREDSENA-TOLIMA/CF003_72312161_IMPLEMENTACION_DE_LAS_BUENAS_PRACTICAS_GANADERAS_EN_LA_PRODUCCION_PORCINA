@@ -126,7 +126,7 @@
         img(src='@/assets/curso/temas/tema1/img10.svg' alt='')
         figcaption Nota. SENA (2022).
 
-    p(data-aos="zoom-in").mt-5 Luego de identificar estos aspectos, se debe identificar los elementos a comprobar uno por uno, de tal modo que, si existe algún obstáculo, error, o traba, se pueda establecer con facilidad, para lo cual se recomienda que todos los procesos en la unidad productiva estén organizados y estructurados, de tal forma que contribuyan en la elaboración de una lista de inspección. Analizando de esta forma el estado de cada nivel, escrutando con detenimiento como debe llevarse todo con el propósito de mantener la seguridad, calidad e inocuidad.
+    p(data-aos="zoom-in").mt-5 Luego de identificar estos aspectos, se debe identificar los elementos a comprobar uno por uno, de tal modo que, si existe algún obstáculo, error o traba, se pueda establecer con facilidad, para lo cual se recomienda que todos los procesos en la unidad productiva estén organizados y estructurados, de tal forma que contribuyan en la elaboración de una lista de inspección. Analizando de esta forma el estado de cada nivel, escrutando con detenimiento como debe llevarse todo con el propósito de mantener la seguridad, calidad e inocuidad.
     p(data-aos="zoom-in") Después de identificar todos estos elementos, es importante crear un documento que será la base de su inspección.
 
     .row.mt-5(data-aos="fade-right")

@@ -63,7 +63,7 @@
      
       .tarjeta.color-acento-botones--borde.p-4(titulo="El enfoque basado en procesos")
         h4 El enfoque basado en procesos
-        p El clima interno de la organización depende de la estrategia de dirección o de mando establecida. El líder principal puede delegar tareas en otros responsables designados, según el tipo de estructura.
+        p Guiar cada área de la organización es parte del desarrollo global de la institución para alcanzar los objetivos de manera eficiente.
 
       .tarjeta.color-acento-botones--borde.p-4(titulo="El enfoque de sistema para la gestión")
         h4 El enfoque de sistema para la gestión
@@ -103,7 +103,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p <b>Anexo.</b> Lista de chequeo para predios productores de carne de cerdo con destino al consumo humano – Forma 3- 519
+            p <b>Anexo.</b> Lista de chequeo para predios productores de porcinos con destino al sacrificio – Forma 3-519
 
     separador
     #t_2_3.titulo-segundo.color-acento-contenido

@@ -54,7 +54,9 @@
             p Las contingencias hacen referencia a aquellas situaciones o eventos que podrían suceder en la producción y que acarrearían consecuencias negativas o positivas en la empresa porcina. Si este hecho llegara a ocurrir o materializarse, mejoraría o empeoraría las condiciones productivas de la empresa. Aunque no se tiene certeza de su ocurrencia, es posible que pase y por esto es muy importante que se diseñen planes de contingencia para así poder enfrentarse a algunas situaciones que puedan suceder. 
 
     p(data-aos="zoom-in").mt-5 Un plan de contingencia es el conjunto de medidas que se articulan con la parte técnica, operativa y humana con el fin de explicar cómo actuar en el momento en que ocurra la situación o evento extraordinario. Es decir, que suministra minuciosamente cuales son las medidas y acciones que se tienen que implementar para que la empresa ganadera pueda seguir funcionando ante una emergencia. En las granjas porcinas existen diferentes planes de contingencia como los enfocados en:
-
+    .titulo-sexto.color-acento-contenido.mb-3.mt-5
+      h5 Figura 3.  
+      span <i>Plan de contingencia</i>
     .row.justify-content-center.mt-5 
       .col-6
         img(src='@/assets/curso/temas/tema3/img4.svg').mt-5
@@ -120,7 +122,7 @@
     p(data-aos="zoom-in").mt-5 A continuación, se presenta la siguiente figura 3 para analizar el plan de contingencia en situaciones de emergencia:
 
     .titulo-sexto.color-acento-contenido.mb-3.mt-5
-      h5 Figura 3.  
+      h5 Figura 4.  
       span <i>Plan de Contingencia en situación de emergencia</i>
     .row.justify-content-center.mb-5
       .col-8
