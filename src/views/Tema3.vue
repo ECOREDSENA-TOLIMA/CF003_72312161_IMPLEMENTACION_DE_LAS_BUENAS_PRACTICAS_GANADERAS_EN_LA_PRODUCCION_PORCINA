@@ -119,7 +119,7 @@
                 img(src='@/assets/curso/temas/tema3/img11.png')
               td Alguna condición que puede impactar de manera negativa a la empresa porcina ya sea por condiciones específicas de la granja o su zona geográfica.
 
-    p(data-aos="zoom-in").mt-5 A continuación, se presenta la siguiente figura 3 para analizar el plan de contingencia en situaciones de emergencia:
+    p(data-aos="zoom-in").mt-5 A continuación, se presenta la siguiente figura 4 para analizar el plan de contingencia en situaciones de emergencia:
 
     .titulo-sexto.color-acento-contenido.mb-3.mt-5
       h5 Figura 4.  

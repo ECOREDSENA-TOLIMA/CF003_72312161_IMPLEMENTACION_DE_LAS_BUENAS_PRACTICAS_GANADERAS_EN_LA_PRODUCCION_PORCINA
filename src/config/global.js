@@ -272,7 +272,7 @@ export default {
       referencia:
         'Agencia Nacional de Evaluación de la Calidad y Acreditación. (s/f). Plan De Mejoras Herramienta de trabajo. ',
       link:
-        'http://www.uantof.cl/public/docs/universidad/direccion_docente/15_elaboracion_plan_de_mejoras.pdf',
+        'https://docplayer.es/14804893-Plan-de-mejoras-herramienta-de-trabajo-agencia-nacional-de-evaluacion-de-la-calidad-y-acreditacion.html',
     },
     {
       referencia:
