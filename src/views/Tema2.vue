@@ -28,7 +28,7 @@
       span <i>Elementos que conforman el sistema de calidad</i>
     .row
       figure
-        img(src='@/assets/curso/temas/tema2/img7.svg' alt='')
+        img(src='@/assets/curso/temas/tema2/img7.svg' alt='Figura 2. Elementos que conforman el sistema de calidad son la estructura de la unidad productiva, planificación estratégica, recursos y procedimientos,')
         figcaption Nota. SENA (2022).
 
     separador

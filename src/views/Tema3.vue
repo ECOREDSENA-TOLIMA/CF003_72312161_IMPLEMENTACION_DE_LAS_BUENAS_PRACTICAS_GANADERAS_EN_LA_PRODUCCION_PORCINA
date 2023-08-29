@@ -56,10 +56,10 @@
     p(data-aos="zoom-in").mt-5 Un plan de contingencia es el conjunto de medidas que se articulan con la parte técnica, operativa y humana con el fin de explicar cómo actuar en el momento en que ocurra la situación o evento extraordinario. Es decir, que suministra minuciosamente cuales son las medidas y acciones que se tienen que implementar para que la empresa ganadera pueda seguir funcionando ante una emergencia. En las granjas porcinas existen diferentes planes de contingencia como los enfocados en:
     .titulo-sexto.color-acento-contenido.mb-3.mt-5
       h5 Figura 3.  
-      span <i>Plan de contingencia</i>
+      span <i>Tipos de planes de contingencia en las granjas porcinas</i>
     .row.justify-content-center.mt-5 
       .col-6
-        img(src='@/assets/curso/temas/tema3/img4.svg').mt-5
+        img(src='@/assets/curso/temas/tema3/img4.svg' alt='Figura 3. Los tipos de planes de contingencia en las granjas porcinas deben contener área sanitaria, área alimentaria, área de riesgos y área de desastres.').mt-5
 
     p(data-aos="zoom-in").mt-5 Diferentes situaciones de emergencia pueden tener alto impacto sobre la producción y el bienestar animal. Dichos eventos deben ser incluidos en los respectivos planes de emergencia teniendo en cuenta que ya existen antecedentes de su ocurrencia en granjas porcinas tanto a nivel nacional como internacional. A continuación, se resumen las distintas situaciones de emergencia mencionadas anteriormente (ver tabla 1): 
 
@@ -127,7 +127,7 @@
     .row.justify-content-center.mb-5
       .col-8
         figure
-          img(src='@/assets/curso/temas/tema3/img12.svg' alt='')
+          img(src='@/assets/curso/temas/tema3/img12.svg' alt='Figura 4. Plan de contingencia en situación de emergencia debe tener un alcance, determinar los procedimientos, establece acciones y responsables, trata un tema específico y se implementa de acuerdo a la situación.')
     figcaption Nota. SENA (2022).
 
     separador

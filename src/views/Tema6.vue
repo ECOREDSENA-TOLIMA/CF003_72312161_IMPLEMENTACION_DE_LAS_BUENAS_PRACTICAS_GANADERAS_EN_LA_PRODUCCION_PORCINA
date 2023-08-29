@@ -19,7 +19,7 @@
             br
             p Se realiza con el objeto principal de informar, razón por la cual debe ser escrito con una estructura enunciativa, empero transmite resultados a través de datos, los autores deben interpretar los mismos para ofrecer de manera detallada una conclusión que explique de manera tácita lo que se quiere exponer mediante la elaboración del informe, es de relevancia además, que haya una fundamentación argumentativa y firme que puede sustentar estas afirmaciones conclusivas y también recomendaciones demostradas con el análisis de datos estadísticos presentados.
 
-    p(data-aos="zoom-in").mt-5 Independiente del tamaño y las características de la empresa, el sistema de Gestión de la Información se conforma de cinco pasos:
+    p(data-aos="zoom-in").mt-5 Independiente del tamaño y las características de la empresa, el sistema de Gestión de la Información (SGI) se conforma de cuatro pasos:
 
     .row.justify-content-center.mt-5
       .col-7

@@ -23,28 +23,51 @@
     #titulo-segundo.color-acento-contenido
       h2 Criterios para evaluar un problema
 
-    .row.mt-5.justify-content-center 
-      .col-8
-         ImagenInfografica.color-primario
-          template(v-slot:imagen)
-            figure
-              img(src='@/assets/curso/temas/tema4/img1.svg', alt='')
+    
+    .row.mt-5
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema4/img21.svg' alt='AvatarTop')
+          //- .tarjeta debe ir acompañado de una de una de estas clases => 
+          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+          //- estas clases tambien tienen un modificador --borde
+          .tarjeta.color-primario
+            .p-4
+              h2.text-center KPI de rendimiento
+              p Cuando los indicadores muestran problemas rutinarios. Si los indicadores muestran que los procesos funcionan de forma correcta, no es preciso emprender acciones correctivas.
 
-          .tarjeta.color-acento-botones--borde.p-3(x="18%" y="0.1%" numero="KPI de rendimiento")
-            .h5.mb-2 KPI de rendimiento
-            p Cuando los indicadores muestran problemas rutinarios. Si los indicadores muestran que los procesos funcionan de forma correcta, no es preciso emprender acciones correctivas.
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema4/img22.svg' alt='AvatarTop')
+          //- .tarjeta debe ir acompañado de una de una de estas clases => 
+          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+          //- estas clases tambien tienen un modificador --borde
+          .tarjeta.color-acento-botones
+            .p-4
+              h2.text-center Registros
+              p Los registros pueden evidenciar problemas que se presentan de forma recurrente y que deben ser investigados.
 
-          .tarjeta.color-acento-contenido--borde.p-3(x="46%" y="40%" numero="Registros")
-            .h5.mb-2 Registros
-            p Los registros pueden evidenciar problemas que se presentan de forma recurrente y que deben ser investigados.
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema4/img23.svg' alt='AvatarTop')
+          //- .tarjeta debe ir acompañado de una de una de estas clases => 
+          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+          //- estas clases tambien tienen un modificador --borde
+          .tarjeta.color-primario
+            .p-4
+              h2.text-center Informes de empleados
+              p Informes, quejas, comentarios de los empleados sobre problemas repetitivos son un signo claro de que es preciso implementar acciones correctivas.
 
-          .tarjeta.color-primario--borde.p-3(x="65%" y="0.1%" numero="Informes de empleados")
-            .h5.mb-2 Informes de empleados
-            p Informes, quejas, comentarios de los empleados sobre problemas repetitivos son un signo claro de que es preciso implementar acciones correctivas.
-
-          .tarjeta.color-secundario--borde.p-3(x="90%" y="30%" numero="Resultados de auditorías")
-            .h5.mb-2 Resultados de auditorías
-            p Son los resultados o inspecciones al sistema cuando los auditores internos o externos incluyen en sus informes las recomendaciones para la implementación de acciones correctivas en ISO 9001.
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema4/img24.svg' alt='AvatarTop')
+          //- .tarjeta debe ir acompañado de una de una de estas clases => 
+          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+          //- estas clases tambien tienen un modificador --borde
+          .tarjeta.color-acento-botones
+            .p-4
+              h2.text-center Resultados de auditorías
+              p Son los resultados o inspecciones al sistema cuando los auditores internos o externos incluyen en sus informes las recomendaciones para la implementación de acciones correctivas en ISO 9001.
 
     p(data-aos="zoom-in").mt-5 Las acciones correctivas pueden ser de dos tipos inmediatas y preventivas, las primeras son reactivas, mientras las segundas son proactivas. A continuación, se muestra el siguiente recurso para analizar cada una de ellas:
 

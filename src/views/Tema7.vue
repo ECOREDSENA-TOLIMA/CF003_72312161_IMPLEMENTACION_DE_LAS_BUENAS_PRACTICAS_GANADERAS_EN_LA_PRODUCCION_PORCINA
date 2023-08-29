@@ -200,13 +200,6 @@
             br
             p Adicionalmente a la información relevante del evento ocurrido (fecha, hora, lugar, personas involucradas, testigos, información de contexto, fotografías, etc.) nuestros informes de novedad incluyen también un detalle de las acciones tomadas como consecuencia del hecho y recomendaciones, sugerencias u otras conclusiones que pueden indicar posibles acciones futuras para el cliente.
 
-    .row.justify-content-center.mt-5
-      .col-6
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Requisitos Sanitarios y de Inocuidad en la Producciòn de carne de Ganado Bovino y Porcino1.pdf')" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            p <b>Anexo.</b> Requisitos Sanitarios y de Inocuidad en la Producciòn de carne de Ganado Bovino y Porcino1.pdf
 </template>
 
 <script>
