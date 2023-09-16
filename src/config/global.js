@@ -189,24 +189,40 @@ export default {
   },
   complementario: [
     {
-      tema: '2. Gestión de calidad',
+      tema: 'Gestión de calidad',
       referencia:
         'Procem Consultores. (2018). Principios del Sistema de Gestión de Calidad.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=mGX1jYNElHg',
     },
     {
-      tema: '2.3 Lista de chequeo',
+      tema: 'Lista de chequeo',
       referencia:
         'Ecosistema de Recursos Educativos SENA. (2021). Lista de chequeo.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=BIruK_ImOK8',
     },
     {
-      tema: '6. Informes (tipos, características, frecuencia)',
+      tema: 'Informes (tipos, características, frecuencia)',
       referencia: 'Virtual Training Lteam. (2016). Informes de Gestión.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=-3fWhB6MPU8',
+    },
+    {
+      tema: 'Instituto Colombiano Agropecuario (ICA)',
+      referencia:
+        'Forma 3 519 Lista de Chequeo de Predios Productores de Porcinos con Destino al Sacrificio.',
+      tipo: 'Documento',
+      link:
+        'https://www.ica.gov.co/areas/pecuaria/servicios/inocuidad-en-las-cadenas-agroalimentarias/listado-de-predios-certificados-en-bpg/forma-3-519-lista-de-chequeo-predios-productores-d.aspx',
+    },
+    {
+      tema: 'Resolución 76509 de 2020',
+      referencia:
+        'Instituto Colombiano Agropecuario (ICA) Resolución 76509 de 2020, establece los requisitos para obtener la certificación en Buenas Prácticas Ganaderas BPG en la Producción Porcina. ',
+      tipo: 'Documento',
+      link:
+        'https://www.ica.gov.co/getattachment/af26e0f9-18bb-4fd7-8100-ba74f386ee28/2020R76509.aspx',
     },
   ],
   glosario: [
