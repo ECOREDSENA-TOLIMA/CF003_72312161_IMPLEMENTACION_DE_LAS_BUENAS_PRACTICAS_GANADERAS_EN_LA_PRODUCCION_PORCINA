@@ -209,7 +209,7 @@ export default {
       link: 'https://www.youtube.com/watch?v=-3fWhB6MPU8',
     },
     {
-      tema: 'Instituto Colombiano Agropecuario (ICA)',
+      tema: 'Lista de chequeo',
       referencia:
         'Forma 3 519 Lista de Chequeo de Predios Productores de Porcinos con Destino al Sacrificio.',
       tipo: 'Documento',
@@ -217,7 +217,7 @@ export default {
         'https://www.ica.gov.co/areas/pecuaria/servicios/inocuidad-en-las-cadenas-agroalimentarias/listado-de-predios-certificados-en-bpg/forma-3-519-lista-de-chequeo-predios-productores-d.aspx',
     },
     {
-      tema: 'Resolución 76509 de 2020',
+      tema: 'Conceptos',
       referencia:
         'Instituto Colombiano Agropecuario (ICA) Resolución 76509 de 2020, establece los requisitos para obtener la certificación en Buenas Prácticas Ganaderas BPG en la Producción Porcina. ',
       tipo: 'Documento',
